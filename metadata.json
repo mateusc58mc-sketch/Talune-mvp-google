@@ -1,0 +1,6 @@
+{
+  "name": "Talune — MMORPG Idle Cooperativo",
+  "description": "Protótipo jogável vertical slice de Talune: MMORPG idle cooperativo com Paperdoll 2D modular, combate tático automático em Party de 4 integrantes, chefes com telegraph e progressão de estágios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
